@@ -1,0 +1,11 @@
+git clone link 
+git remote -v (checks remote list)
+git remote add streamname link
+
+git add .  (to stage the changes)
+git commit -m "commitmessage" 
+git push 
+
+git checkout -b branchname
+git switch branchname
+
